@@ -10,8 +10,8 @@ we neeed to convert it into digit then sort it and again convert it into word(ca
 
 we use
 #### 1: dictionary
-2: word2number module
-   and import w2n
+#### 2: word2number module
+   and import w2n<br>
         to convert word into digit
 #### 3: num2words module
     to convert digit into word
